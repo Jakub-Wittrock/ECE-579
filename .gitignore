@@ -1,5 +1,7 @@
 # Models
 models/
+Custom DNN Models/
+Training Checkpoints/ 
 
 # Logs
 logs/
