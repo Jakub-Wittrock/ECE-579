@@ -1,5 +1,7 @@
 # ECE 579 - Intelligent Systems
 
+This repository contains the code and documentation for our project in ECE 579 - Intelligent Systems. The project is focused on developing a machine learning algorithm for classification of music by genre. We will be using neural networks to achieve this goal, and we will be training our models on the GTZAN and FMA datasets. The repository includes our project initiative report, project status updates, technical survey, and the code for our neural network implementation.
+
 ## Project Initiative Report (02/05/2026)
 
 ### Project Title: 
